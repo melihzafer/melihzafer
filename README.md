@@ -12,10 +12,7 @@
   <a href="https://instagram.com/melihzafer_" target="_blank">
     <IMG9Ü99 src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-</p>ülküocakları
-999
----99
-999999
+</p>
 I'm a developer and IT specialist based in Varna, Bulgaria, currently pursuing a B.S. in **Informatics & Computer Science** at the University of Economics – Varna (2023-2027).
 
 My core mission is to build a startup that leverages my "Developer + Trader" skillset, creating high-performance applications for finance, e-commerce, and analytics.
